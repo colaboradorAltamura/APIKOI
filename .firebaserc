@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "ecommitment-qa",
+    "prod": "ecommitment-prod",
+    "qa": "ecommitment-qa"
+  }
+}
